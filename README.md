@@ -124,55 +124,55 @@ plt.show()
 
 # OUTPUT:
 ## Reading CSV File
-![OUTPUT-01](IMG-01.PNG)
+![OUTPUT-01](IMG-01.png)
 ## Basic Process
 ### Head
-![OUTPUT-02](IMG-02.PNG)
+![OUTPUT-02](IMG-02.png)
 ## Info
-![OUTPUT-03](IMG-03.PNG)
+![OUTPUT-03](IMG-03.png)
 ## Describe
-![OUTPUT-04](IMG-04.PNG)
+![OUTPUT-04](IMG-04.png)
 ## Tail
-![OUTPUT-05](IMG-05.PNG)
+![OUTPUT-05](IMG-05.png)
 ## Shape
-![OUTPUT-06](IMG-06.PNG)
+![OUTPUT-06](IMG-06.png)
 ## Columns
-![OUTPUT-07](IMG-07.PNG)
+![OUTPUT-07](IMG-07.png)
 ## Null Values
-![OUTPUT-08](IMG-08.PNG)
+![OUTPUT-08](IMG-08.png)
 ## Duplicate Values
-![OUTPUT-09](IMG-09.PNG)
+![OUTPUT-09](IMG-09.png)
 
 # Before Transformation
 ## Highly Positive Skew
-![OUTPUT-10](IMG-10.PNG)
+![OUTPUT-10](IMG-10.png)
 ## Highly Negative Skew
-![OUTPUT-11](IMG-11.PNG)
+![OUTPUT-11](IMG-11.png)
 ## Moderate Positive Skew
-![OUTPUT-12](IMG-12.PNG)
+![OUTPUT-12](IMG-12.png)
 ## Moderate Negative Skew
-![OUTPUT-13](IMG-13.PNG)
+![OUTPUT-13](IMG-13.png)
 
 # Log Transformation
 ## Highly Positive Skew
-![OUTPUT-14](IMG-14.PNG)
+![OUTPUT-14](IMG-14.png)
 ## Moderate Positive Skew
-![OUTPUT-15](IMG-15.PNG)
+![OUTPUT-15](IMG-15.png)
 # Reciprocal Transformation
 ## Highly Positive Skew
-![OUTPUT-16](IMG-16.PNG)
+![OUTPUT-16](IMG-16.png)
 ## Square Root Transformation
 ### Highly Positive Skew
-![OUTPUT-17](IMG-17.PNG)
+![OUTPUT-17](IMG-17.png)
 ## Power Transformation
 ### Moderate Positive Skew
-![OUTPUT-18](IMG-18.PNG)
+![OUTPUT-18](IMG-18.png)
 ## Moderate Negative Skew
-![OUTPUT-19](IMG-19.PNG)
+![OUTPUT-19](IMG-19.png)
 
 ## Quantile Transformation
 ### Moderate Negative Skew
-![OUTPUT-20](IMG-20.PNG)
+![OUTPUT-20](IMG-20.png)
 
 # RESULT:
 Thus feature transformation is done for the given dataset.
